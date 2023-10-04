@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "PXj5lAvwX/fFxpuvWryVPtLHJvrqNbab0EBt00hcOR3LWA2DQRZ6dlaogXncVHHNtcwB7z9AS8aRTByCTt1bFg==",
+  "dgSpecHash": "QTS96eJ4O57lroFtKgikec+yWnxzl4HOcM6L5pkkezCKMVyQa3fqNb8qAAt91pnqG2DkNWEP2vAKJ02vKC5mHw==",
   "success": true,
   "projectFilePath": "D:\\PROYECTOS\\C#\\ASP.NET CORE Web API REST APIs SQL\\Dominio\\Aplicacion\\Aplicacion.csproj",
   "expectedPackageFiles": [
@@ -14,9 +14,8 @@
     "C:\\Users\\karlo\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
     "C:\\Users\\karlo\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\karlo\\.nuget\\packages\\itextsharp.lgplv2.core\\3.4.8\\itextsharp.lgplv2.core.3.4.8.nupkg.sha512",
-    "C:\\Users\\karlo\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
-    "C:\\Users\\karlo\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
-    "C:\\Users\\karlo\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\karlo\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\karlo\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\karlo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\karlo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\karlo\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",

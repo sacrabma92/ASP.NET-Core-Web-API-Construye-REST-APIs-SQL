@@ -1,0 +1,17 @@
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Persistencia\bin\Debug\net7.0\Persistencia.deps.json
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Persistencia\bin\Debug\net7.0\Persistencia.runtimeconfig.json
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Persistencia\bin\Debug\net7.0\Persistencia.dll
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Persistencia\bin\Debug\net7.0\Persistencia.pdb
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Persistencia\bin\Debug\net7.0\Dominio.dll
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Persistencia\bin\Debug\net7.0\Dominio.pdb
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Persistencia\obj\Debug\net7.0\Persistencia.csproj.AssemblyReference.cache
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Persistencia\obj\Debug\net7.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Persistencia\obj\Debug\net7.0\Persistencia.AssemblyInfoInputs.cache
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Persistencia\obj\Debug\net7.0\Persistencia.AssemblyInfo.cs
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Persistencia\obj\Debug\net7.0\Persistencia.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Persistencia\obj\Debug\net7.0\Persistencia.csproj.CopyComplete
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Persistencia\obj\Debug\net7.0\Persistencia.dll
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Persistencia\obj\Debug\net7.0\refint\Persistencia.dll
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Persistencia\obj\Debug\net7.0\Persistencia.pdb
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Persistencia\obj\Debug\net7.0\Persistencia.genruntimeconfig.cache
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Persistencia\obj\Debug\net7.0\ref\Persistencia.dll

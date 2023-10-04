@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dPmEhX/t+tJnOg88TZ/xoxDMvSlGTWHMrh1qISdSaYB7GREZ+Ytxm/YNP6BJId50MIgY1EUNiUXrVSRGOUNDYA==",
+  "dgSpecHash": "CNveweKpVNUAMhxPCVdhJAtwnssAg82MIVuTfUa/yKa3MZTVsDoKoVBSGlXaZysRfCfaeSe0ccrMkU5m8de3XQ==",
   "success": true,
   "projectFilePath": "D:\\PROYECTOS\\C#\\ASP.NET CORE Web API REST APIs SQL\\Dominio\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
@@ -14,9 +14,6 @@
     "C:\\Users\\karlo\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
     "C:\\Users\\karlo\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\karlo\\.nuget\\packages\\itextsharp.lgplv2.core\\3.4.8\\itextsharp.lgplv2.core.3.4.8.nupkg.sha512",
-    "C:\\Users\\karlo\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
-    "C:\\Users\\karlo\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
-    "C:\\Users\\karlo\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
     "C:\\Users\\karlo\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.2.0\\microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "C:\\Users\\karlo\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\karlo\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",

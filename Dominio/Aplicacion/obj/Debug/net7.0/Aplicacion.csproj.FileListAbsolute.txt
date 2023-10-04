@@ -1,0 +1,17 @@
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Aplicacion\bin\Debug\net7.0\Aplicacion.deps.json
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Aplicacion\bin\Debug\net7.0\Aplicacion.dll
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Aplicacion\bin\Debug\net7.0\Aplicacion.pdb
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Aplicacion\bin\Debug\net7.0\Dominio.dll
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Aplicacion\bin\Debug\net7.0\Persistencia.dll
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Aplicacion\bin\Debug\net7.0\Dominio.pdb
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Aplicacion\bin\Debug\net7.0\Persistencia.pdb
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Aplicacion\obj\Debug\net7.0\Aplicacion.csproj.AssemblyReference.cache
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Aplicacion\obj\Debug\net7.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Aplicacion\obj\Debug\net7.0\Aplicacion.AssemblyInfoInputs.cache
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Aplicacion\obj\Debug\net7.0\Aplicacion.AssemblyInfo.cs
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Aplicacion\obj\Debug\net7.0\Aplicacion.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Aplicacion\obj\Debug\net7.0\Aplicacion.csproj.CopyComplete
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Aplicacion\obj\Debug\net7.0\Aplicacion.dll
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Aplicacion\obj\Debug\net7.0\refint\Aplicacion.dll
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Aplicacion\obj\Debug\net7.0\Aplicacion.pdb
+D:\PROYECTOS\C#\ASP.NET CORE Web API REST APIs SQL\Dominio\Aplicacion\obj\Debug\net7.0\ref\Aplicacion.dll
